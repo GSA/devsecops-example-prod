@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome
 
 We're so glad you're thinking about contributing to an 18F open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
@@ -8,7 +8,7 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its 
 
 If you have any questions or want to read more, check out the [18F Open Source Policy GitHub repository](https://github.com/18f/open-source-policy), or just [shoot us an email](mailto:18f@gsa.gov).
 
-## Public domain
+# Public domain
 
 This project is in the public domain within the United States, and
 copyright and related rights in the work worldwide are waived through
