@@ -8,16 +8,6 @@ This project implements a basic DevSecOps infrastructure. This deployment uses m
 
 * [`terraform/`](terraform/) - [Terraform](https://www.terraform.io/) code for setting up the infrastructure at the [Amazon Web Services (AWS)](https://aws.amazon.com/) level
 
-## Important concepts
-
-### Configuration as code
-
-All configuration is code, and [all setup steps are documented](#setup). New environment(s) can be created from scratch quickly and reliably.
-
-### DRY
-
-The code follows the [Don’t Repeat Yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle. Values that need to be shared are passed around as variables, rather than being hard-coded in multiple places. This ensures configuration stays in sync.
-
 ## Setup
 
 If you’ve already deployed the DevSecOps-Infrastructure repo, chances are you’ve already done some of this.
